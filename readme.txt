@@ -5,6 +5,6 @@ used X-CUBE-DSPDEMO as basis
 >> import by ioc and generate code first
 >> click "Use float with printf ...."
 >> add libarm_cortexM4lf_math.a in the linker settings
-3. add STM32F429I-DISC1_FIR_FFT_wth_Print_LCD_off for LDC off
+3. add STM32F429I-DISC1_FIR_FFT_wth_Print_LCD_off to turn off LCD
 4. other projects like single data, etc. port to G474, F769 and compare timing
 
